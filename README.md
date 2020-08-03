@@ -13,7 +13,7 @@ The BuildMyWorld project creates a gazebo world by using moderator tool and buil
   
 2. Clone the project under  **/home/workspace/catkin_ws/src** directory:
 
- * `git clone`
+ * `git clone https://github.com/tonyli0130/ROS_BuildMyWorld_Project.git`
  
  
 3. Update and updgrade the workspace image to get the lattest features of Gazebo, open a terminal and write the following statements:
