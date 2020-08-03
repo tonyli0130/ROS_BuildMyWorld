@@ -25,3 +25,5 @@ The BuildMyWorld project creates a gazebo world by using moderator tool and buil
 Now run the BuildMyWorld project under **/home/workspace/catkin_ws/src/BuildMyWorld/world** directory:
 
  * `gazebo MyWorld.world`
+ 
+
