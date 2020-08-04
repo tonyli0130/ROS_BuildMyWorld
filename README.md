@@ -1,4 +1,4 @@
-# ROS_BuildMyWorld_Project
+# ROS_BuildMyWorld
 The BuildMyWorld project creates a gazebo world by using moderator tool and building editor, which interacts with plugin written in C++ language to display a welcome message after the gazebo world is launching. Moreover, importing some objects from Gazebo online library can make the gazebo world more diverse.
 
 ## Installation
@@ -13,7 +13,7 @@ The BuildMyWorld project creates a gazebo world by using moderator tool and buil
   
 2. Clone the project under  **/home/workspace/catkin_ws/src** directory:
 
- * `git clone https://github.com/tonyli0130/ROS_BuildMyWorld_Project.git`
+ * `git clone https://github.com/tonyli0130/ROS_BuildMyWorld.git`
  
  
 3. Update and updgrade the workspace image to get the lattest features of Gazebo, open a terminal and write the following statements:
